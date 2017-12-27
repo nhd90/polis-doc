@@ -4,7 +4,7 @@ Setting up a POLIS masternode.
  * With added security features to your VPS
  * Swap
  
- https://github.com/digitalmine/Guide/blob/master/Masternode-VPS-Setup-Guide.md
+ https://github.com/polispay/polis-doc/blob/master/masternode-setup/Masternode-VPS-Setup-Guide.md
  
 Special thanks to [digitalmine](https://github.com/digitalmine) for the guide
 
