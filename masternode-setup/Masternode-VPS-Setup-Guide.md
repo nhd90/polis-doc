@@ -40,7 +40,7 @@
 2. Copy/paste command into the VPS and hit enter: (For this step you will need your `private key` 
    generated at step 5 above and your VPS IP address)
 ```
-wget https://github.com/digitalmine/Guide/blob/master/install_masternode.sh && chmod +x install_masternode.sh && ./install_masternode.sh
+wget https://github.com/polispay/polis-doc/masternode-setup/blob/master/install_masternode.sh && chmod +x install_masternode.sh && ./install_masternode.sh
 ```
 3. When prompted, enter your private key from before.
 4. You will be asked for your VPS IP and a few other questions.
